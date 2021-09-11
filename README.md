@@ -1,7 +1,7 @@
 # LNK Creation BOF.NET
 This is a simple [BOF.NET](https://github.com/CCob/BOF.NET) class for creating LNK files.
 
-Dependent on the awesome [BOF.NET](https://github.com/CCob/BOF.NET) project created by [@_EthicalChaos_](https://twitter.com/_EthicalChaos_).
+Dependent on the awesome [BOF.NET](https://github.com/CCob/BOF.NET) project created by [@\_EthicalChaos\_](https://twitter.com/_EthicalChaos_).
 
 ## Usage
 Initiate BOF.NET and load the assembly:
